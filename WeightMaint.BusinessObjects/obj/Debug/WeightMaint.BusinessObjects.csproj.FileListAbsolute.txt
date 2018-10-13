@@ -1,0 +1,17 @@
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\WeightMaint.BusinessObjects.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\WeightMaint.BusinessObjects.pdb
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.abstractions.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.assert.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.core.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.execution.desktop.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.assert.xml
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.core.xml
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.execution.desktop.xml
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\obj\Debug\WeightMaint.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\obj\Debug\WeightMaint.BusinessObjects.csproj.CopyComplete
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\obj\Debug\WeightMaint.BusinessObjects.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\obj\Debug\WeightMaint.BusinessObjects.pdb
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\steve\source\repos\WeightMaint\WeightMaint.BusinessObjects\obj\Debug\WeightMaint.BusinessObjects.csprojAssemblyReference.cache

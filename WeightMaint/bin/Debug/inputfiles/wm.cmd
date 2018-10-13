@@ -1,0 +1,1 @@
+..\weightmaint.exe %1
